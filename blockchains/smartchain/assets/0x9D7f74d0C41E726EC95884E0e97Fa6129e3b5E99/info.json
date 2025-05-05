@@ -1,0 +1,11 @@
+{
+  "name": "VeetaCoin",
+  "symbol": "VEET",
+  "decimals": 18,
+  "description": "VeetaCoin is a revolutionary token supporting eco-friendly projects and innovation in sustainability.",
+  "website": "https://veetacoin.com", 
+  "explorer": "https://bscscan.com/token/0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99",
+  "type": "ERC20",
+  "status": "active",
+  "id": "0x9D7f74d0C41E726EC95884E0e97Fa6129e3b5E99"
+}
